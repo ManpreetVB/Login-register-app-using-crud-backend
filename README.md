@@ -44,7 +44,7 @@ Frontend Repository: Login-register-app-using-crud (React + Vite)
 
 Clone the repository
 
-git clone https://github.com/your-username/Login-register-app-using-crud-backend.git
+git clone https://github.com/ManpreetVB/Login-register-app-using-crud-backend.git
 
 
 Navigate to the project directory
